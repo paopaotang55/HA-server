@@ -1,7 +1,7 @@
 const request = require('supertest');
 const app = require('../server');
 
-describe('GET /user', () => {
+describe('GET /test', () => {
   it('Gets the test endpoint', async done => {
     // Sends GET Request to /test endpoint
     const response = await request(app).get('/test');
