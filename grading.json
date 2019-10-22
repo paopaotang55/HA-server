@@ -1,0 +1,30 @@
+{
+  "bare_min": {
+    "json": 0,
+    "run": 0,
+    "eslint": 0,
+    "test": 0,
+    "directory": 0,
+    "readme": 0,
+    "secret": 0,
+    "controller": 0,
+    "model": 0,
+    "router": 0,
+    "docs": 0,
+    "err_server": 0,
+    "data_migration": 0,
+    "db_connect": 0,
+    "env": 0,
+    "git": 0
+  },
+  "advanced": {
+    "middleware": 0,
+    "orm": 0,
+    "mvc": 0,
+    "adv_api_01": 0,
+    "adv_api_02": 0,
+    "system": 0,
+    "script_db_migration": 0,
+    "deploy": 0
+  }
+}
