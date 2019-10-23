@@ -5,6 +5,7 @@
   "main": "index.js",
   "scripts": {
     "test": "jest --verbose",
+    "self-grade": "node calc.js",
     "start": "node ./bin/www",
     "dev": "nodemon ./bin/www"
   },
@@ -20,6 +21,7 @@
   },
   "homepage": "https://github.com/codestates/im-hiring-assessment-project-backend#readme",
   "dependencies": {
+    "colors": "^1.4.0",
     "express": "^4.17.1"
   },
   "devDependencies": {
